@@ -1,1 +1,5 @@
 # PhishShield
+
+PhishShield is a browser-based cybersecurity extension designed to detect potentially malicious phishing emails directly within webmail platforms such as Gmail and Outlook. Instead of requiring users to manually upload email content into a separate tool, the extension integrates into the user’s workflow and analyzes emails in real time as they are opened. The system examines sender information, email content, suspicious URLs, and phishing-related language patterns to estimate phishing risk and alert users before they interact with harmful content.
+
+The project combines AI-assisted phishing classification with rule-based security checks to improve detection reliability and explainability. PhishShield focuses on practical cybersecurity product design, user protection, and secure interaction workflows while exploring how machine learning can be integrated into real-world phishing prevention systems. The project also emphasizes browser extension architecture, threat detection logic, and usability-focused security warnings.
