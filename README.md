@@ -22,6 +22,7 @@ PhishShield focuses on practical phishing prevention, secure user interaction, a
 
 * Python
 * Scikit-learn
-* Flask/FastAPI
+* FastAPI
 * JavaScript
+* XGBoost
 * Chrome Extension APIs
